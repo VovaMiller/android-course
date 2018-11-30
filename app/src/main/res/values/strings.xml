@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyxTapApplication</string>
+    <string name="button_1_name">Send email</string>
+    <string name="button_2_name">Open profile</string>
+    <string name="second_imageView1">MyxTap image</string>
+    <string name="second_textView_1">Unnamed Player</string>
+    <string name="second_editText_1">Заметка о человеке</string>
 </resources>
