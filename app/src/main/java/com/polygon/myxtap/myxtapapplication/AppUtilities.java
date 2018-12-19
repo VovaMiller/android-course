@@ -5,6 +5,8 @@ import android.content.pm.ApplicationInfo;
 
 
 public class AppUtilities {
+    private AppUtilities() {}
+
     public static String getApplicationName(Context context) {
         ApplicationInfo applicationInfo = context.getApplicationInfo();
         int stringId = applicationInfo.labelRes;

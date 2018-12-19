@@ -48,7 +48,7 @@ public class MainMenuActivity extends AppCompatActivity {
     }
 
     private void onClickButtonOpenProfile() {
-        Intent myIntent = new Intent(MainMenuActivity.this, PersonProfileActivity.class);
+        Intent myIntent = new Intent(MainMenuActivity.this, PeopleListActivity.class);
         startActivity(myIntent);
     }
 

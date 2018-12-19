@@ -3,6 +3,7 @@
     <string name="button_send_mail">Send email</string>
     <string name="button_open_profile">Open profile</string>
     <string name="profile_img_description">MyxTap image</string>
+    <string name="profile_img_preview_description">Person\'s preview image</string>
     <string name="profile_person_name">Unnamed Player</string>
-    <string name="profie_default_text">Заметка о человеке</string>
+    <string name="profile_default_text">Заметка о человеке</string>
 </resources>
