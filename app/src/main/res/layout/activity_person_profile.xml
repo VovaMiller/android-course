@@ -10,10 +10,8 @@
 
     <ImageView
         android:id="@+id/imgPersonPhoto"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:maxHeight="150dp"
-        android:minHeight="150dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -46,7 +44,7 @@
         app:layout_constraintTop_toBottomOf="@id/guidelinePersonProfile"
         android:gravity="top"
         android:inputType="textMultiLine"
-        android:text="@string/profie_default_text"
+        android:text="@string/profile_default_text"
         android:background="#FFFFFF"/>
 
 </android.support.constraint.ConstraintLayout>
